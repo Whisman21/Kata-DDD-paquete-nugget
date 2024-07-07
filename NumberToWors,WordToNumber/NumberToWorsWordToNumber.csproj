@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>NumberToWors_WordToNumber</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>NumberToWord_WordToNumber</Title>
+    <Authors>Whisman Lorenzo</Authors>
+    <Description>Convert Number to Word and convert Word to Number (0-999999999)</Description>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
